@@ -8,11 +8,15 @@ This project is a starting point for a Flutter application.
 
 ## Login view
 
-![assets](assets/hasil1.png)
+![assets](assets/loginhasil1.png)
 
 ## Register
 
-![assets](assets/hasil%20regist.png)
+![assets](assets/loginhasil2.png)
+
+## Resetpass
+
+![assets](assets/loginhasil3.png)
 
 A few resources to get you started if this is your first Flutter project:
 
