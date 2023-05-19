@@ -9,7 +9,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-## Login view
+## Login 
 
 ![assets](assets/loginhasil1.png)
 
